@@ -1,0 +1,18 @@
+.box{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(D_szgjatekok/kepek/black.png);
+    font-family: Arial, Verdana, sans-serif;
+
+}
+header{
+    background-image: url(D_szgjatekok/kepek/game.jpg);
+}
+main{
+    size:90%;
+    align-self: center ;
+}
+footer{
+    background-color: yellow;
+}
